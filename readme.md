@@ -1,6 +1,6 @@
-# Whale theme
+# Whale 🐋
 
-Dark theme inspired by Ark and Nord themes.
+Dark as sea whale, theme inspired by Ark and Nord themes.
 
 ![screenshot](https://github.com/anufrievroman/whale/blob/main/screenshot.jpg)
 
