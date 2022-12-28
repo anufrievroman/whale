@@ -1,0 +1,29 @@
+  # Whale theme
+  colors:
+      # Default colors
+      primary:
+        background: '0x1a1e2a'
+        foreground: '0xffffff'
+
+      # Normal colors
+      normal:
+        black:   '0x1d2430'
+        red:     '0xfa5ead'
+        green:   '0x00fbad'
+        yellow:  '0xffdf5f'
+        blue:    '0x5eadfc'
+        magenta: '0xfa5ead'
+        cyan:    '0x242D42'
+        white:   '0xffffff'
+
+      # Bright colors
+      bright:
+        black:   '0x1d2430'
+        red:     '0xfa5ead'
+        green:   '0x00fbad'
+        yellow:  '0xffdf5f'
+        blue:    '0x5eadfc'
+        magenta: '0xfa5ead'
+        cyan:    '0x6a6f87'
+        white:   '0xeff1f5'
+

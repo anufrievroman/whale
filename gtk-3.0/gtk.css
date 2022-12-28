@@ -1,0 +1,47 @@
+@import 'colors.css';
+
+.terminator-terminal-window notebook {
+    border: none;
+}
+
+.terminator-terminal-window notebook tab {
+    background-color: #1c2331;
+    padding: 0.1em;
+    border: 0;
+    border-color: #444;
+    border-style: solid;
+    border-width: 0px;
+}
+
+.terminator-terminal-window notebook tab:checked {
+    background-color: #1c2331;
+    background-image: none;
+}
+
+.terminator-terminal-window notebook tab label {
+    color: #364259;
+    font-size: 18px;
+}
+
+.terminator-terminal-window notebook tab:checked label {
+    color: #9ab4bc;
+    font-weight: 500;
+}
+
+.terminator-terminal-window notebook tab button {
+    padding: 0;
+    background-color: transparent;
+    color: #fff;
+}
+
+.terminator-terminal-window notebook header {
+    background-color: #1c2331;
+}
+
+.terminator-terminal-window notebook tab button:hover {
+  border: 0;
+  background-image: none;
+  border-color: #1c2331;
+  border-style: solid;
+  border-width: 0px;
+}

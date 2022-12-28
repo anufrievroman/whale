@@ -1,0 +1,91 @@
+/*
+ * ROFI whale color theme
+ *
+ * Based on something Found in the Internet
+ *
+ * User: Contributors
+ * Copyright: *!
+ */
+
+configuration {
+  font: "Noto Sans 12";
+
+  drun {
+    display-name: "";
+  }
+
+  run {
+    display-name: "";
+  }
+
+  window {
+    display-name: "";
+  }
+
+  timeout {
+    delay: 10;
+    action: "kb-cancel";
+  }
+}
+
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  spacing: 0;
+
+  bg: #1a1e2a;
+  bg-alt: #212739;
+  fg: #6a6f87;
+  fg-alt: #ffffff;
+
+  text-color: @fg-alt;
+  background-color: @bg;
+}
+
+window {
+  width: 700px;
+}
+
+mainbox {
+  children: [inputbar, listview];
+}
+
+inputbar {
+  text-color: @fg-alt;
+  background-color: @bg-alt;
+  children: [prompt, entry];
+}
+
+entry {
+  background-color: inherit;
+  padding: 12px 3px;
+}
+
+prompt {
+  text-color: @fg-alt;
+  background-color: inherit;
+  padding: 12px;
+}
+
+listview {
+  lines: 8;
+}
+
+element {
+  children: [element-text];
+}
+
+element-icon {
+  padding: 10px 10px;
+  size: 20px;
+}
+
+element-text {
+  text-color: @fg;
+  padding: 8px 15px;
+}
+
+element-text selected {
+  text-color: @fg-alt;
+}

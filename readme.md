@@ -4,6 +4,7 @@ Dark as sea whale, theme inspired by Ark and Nord themes.
 
 ![screenshot](https://github.com/anufrievroman/whale/blob/main/screenshot.jpg)
 
+
 ## Colors
 
 - Back `#1a1e2a` ![#1a1e2a](https://placehold.co/15x15/1a1e2a/1a1e2a.png) 
@@ -15,6 +16,19 @@ Dark as sea whale, theme inspired by Ark and Nord themes.
 - Pink `#fa5ead` ![#fa5ead](https://placehold.co/15x15/fa5ead/fa5ead.png)
 - Green `#00fbad` ![#00fbad](https://placehold.co/15x15/00fbad/00fbad.png)
 
+
+## Currently supported
+
+This repo provides configuration files for the following list of programs and environments. For other programs, please use above colors to create Whale theme and share the result here.
+
+- GTK 3
+- QT
+- Alacritty
+- Telegram
+- Zathura
+- Rofi
+
+
 ## Support
 
-If you like the project, you can [buy me a coffee](https://www.buymeacoffee.com/angryprofessor).
+If you like my open-source projects, you can [buy me a coffee](https://www.buymeacoffee.com/angryprofessor).
