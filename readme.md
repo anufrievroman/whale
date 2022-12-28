@@ -27,6 +27,7 @@ This repo provides configuration files for the following list of programs and en
 - Telegram
 - Zathura
 - Rofi
+- Slack
 
 
 ## Support
