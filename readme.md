@@ -2,7 +2,7 @@
 
 Dark theme inspired by Ark and Nord themes.
 
-![screenshot](https://github.com/anufrievroman/whale/blob/master/static/screenshot.png)
+![screenshot](https://github.com/anufrievroman/whale/blob/main/screenshot.jpg)
 
 ## Colors
 
