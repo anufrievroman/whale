@@ -33,6 +33,7 @@ This repo provides configuration files for the following list of programs and en
 - Slack
 - Blender
 - Brave
+- Xresources
 
 
 ## Support
