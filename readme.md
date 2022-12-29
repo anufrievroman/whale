@@ -26,10 +26,13 @@ This repo provides configuration files for the following list of programs and en
 - GTK 3
 - QT
 - Alacritty
+- Kitty
 - Telegram
 - Zathura
 - Rofi
 - Slack
+- Blender
+- Brave
 
 
 ## Support
