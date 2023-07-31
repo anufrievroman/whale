@@ -23,6 +23,8 @@ Dark as sea whale, theme inspired by Ark and Nord themes.
 
 This repo provides configuration files for the following list of programs and environments. For other programs, please use above colors to create Whale theme and share the result here.
 
+- Firefox
+- Brave
 - GTK 3
 - QT
 - Alacritty
@@ -32,7 +34,6 @@ This repo provides configuration files for the following list of programs and en
 - Rofi
 - Slack
 - Blender
-- Brave
 - Xresources
 - Mailspring
 - Vimiv
