@@ -37,6 +37,7 @@ This repo provides configuration files for the following list of programs and en
 - Xresources
 - Mailspring
 - Vimiv
+- Helix
 
 
 ## Support
